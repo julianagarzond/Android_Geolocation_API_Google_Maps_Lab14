@@ -9,3 +9,5 @@ Debes seguir el Código de honor del ingeniero de sistemas para defender el est�
 - No puedes compartir tus soluciones de tareas, cuestionarios o exámenes con otra persona a menos que el instructor lo permita explícitamente. Esto incluye cualquier cosa escrita por ti, como también cualquier solución oficial proporcionada por el docente o el monitor del curso.
 
 - No puedes participar en otras actividades que mejorarán de manera deshonesta tus resultados o que mejorarán de manera deshonesta o dañarán los resultados de otras personas.
+
+![WhatsApp Image 2020-12-02 at 8 48 55 PM](https://user-images.githubusercontent.com/43153078/100953645-002a7300-34e1-11eb-8a53-2de3b199ee89.jpeg)
